@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Full Stack And Ai Ml<br>👯 I’m looking to collaborate on Startups<br>🌱 I’m currently learning AI ML<br>💬 Ask me about<br>
+🔭 I’m currently working on Java Full Stack And Ai Ml<br>👯 I’m looking to collaborate on Startups<br>🌱 I’m currently learning AI ML<br>
 
 
 ## 🌐 Socials:
